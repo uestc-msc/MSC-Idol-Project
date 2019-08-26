@@ -1,8 +1,8 @@
-# RuanWeiwei！ MSC-Idol-Project
+# RuanWeiwei! MSC-Idol-Project
 
 ## 介绍
 
-RuanWeiwei！ MSC-Idol-Project 是由电子科技大学微软学生俱乐部推出的部员参与活动以及由此展开的多媒体企划
+RuanWeiwei! MSC-Idol-Project 是由电子科技大学微软学生俱乐部推出的部员参与活动以及由此展开的多媒体企划
 
 ## 开始
 
