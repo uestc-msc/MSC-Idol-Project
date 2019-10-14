@@ -39,4 +39,4 @@ RuanWeiwei! MSC-Idol-Project 是由电子科技大学微软学生俱乐部推出
 
 薇薇爱你哟~
 
-![avatar](src/ruanWeiWei_32px_preview.png)
+![avatar](src/pixel_version/ruanWeiWei_32px_preview.png)
