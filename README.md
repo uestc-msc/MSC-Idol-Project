@@ -2,9 +2,17 @@
 
 ## 介绍
 
-RuanWeiwei! MSC-Idol-Project 是由电子科技大学微软学生俱乐部推出的部员参与活动以及由此展开的多媒体企划
+MSC-Idol-Project 是微软学生俱乐部的看板娘**阮薇薇**同学（们）的出道计划，以及由此展开的多媒体企划。
 
-## 开始
+## 欢迎语
+
+阮薇薇的诞生，是一群 MSCer 为了以更亲和更大众的方式向外界宣传 MSC 而自发促成的 Project。
+不同校的 MSC 的薇薇之间是姐妹关系，现在最年长的是来自四川大学的姐姐（19岁）。
+薇薇彼此之间都相互认识，但都各自拥有着不同的故事和性格。
+
+![薇薇爱你哟~](src/pixel_version/ruanWeiWei_32px_preview.png)
+
+## 欢迎加入微软学生俱乐部
 
 ![avatar](src/rww001.jpeg)
 你不报 我不报
@@ -33,10 +41,6 @@ RuanWeiwei! MSC-Idol-Project 是由电子科技大学微软学生俱乐部推出
 
 走过路过不要错过
 
-![avatar](src/rww000.jpeg)
-![avatar](src/rww003.jpeg)
-![avatar](src/rww006.png)
+## 人设及更多内容
 
-薇薇爱你哟~
-
-![avatar](src/pixel_version/ruanWeiWei_32px_preview.png)
+关于薇薇的具体人设请参考[薇薇人设详情](src/setup.md)
