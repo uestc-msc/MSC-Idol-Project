@@ -10,11 +10,11 @@ MSC-Idol-Project 是微软学生俱乐部的看板娘**阮薇薇**同学（们�
 不同校的 MSC 的薇薇之间是姐妹关系，现在最年长的是来自四川大学的姐姐（19岁）。
 薇薇彼此之间都相互认识，但都各自拥有着不同的故事和性格。
 
-![薇薇爱你哟~](src/pixel_version/ruanWeiWei_32px_preview.png)
+![薇薇爱你哟~](pictures/pixel_version/ruanWeiWei_32px_preview.png)
 
 ## 欢迎加入微软学生俱乐部
 
-![avatar](src/rww001.jpeg)
+![avatar](pictures/rww001.jpeg)
 你不报 我不报
 
 薇薇何时能出道
